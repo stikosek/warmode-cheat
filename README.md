@@ -1,6 +1,6 @@
 # WarMode cheat
 A cheat for the shitty game [WARMODE](https://store.steampowered.com/app/391460/WARMODE/) by stikosek.
-Was started in a channalnge with JNNJ and terrain to make a cheat in 24 hours.
+Was started in a challange with JNNJ and terrain to make a cheat in 24 hours.
 
 # Features
  - No recoil
