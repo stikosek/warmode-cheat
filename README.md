@@ -11,6 +11,8 @@ Was started in a channalnge with JNNJ and terrain to make a cheat in 24 hours.
  - AimBot (Work in progress but still useful now)
  - Infinite stamina (Not really but kinda works)
  - BEEG crosshair (idk why anyone would use it but yeah)
+ - Flight
+ - Moon gravity
 
 I really do reccomend you use No ammo usage + rapid fire its op as fuck
 
