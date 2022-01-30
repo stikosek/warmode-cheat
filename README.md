@@ -34,6 +34,10 @@ from [here](https://github.com/stikosek/warmode-cheat/releases). Make sure to se
 
 5# Close the folder and your done!
 
-
+# Other info
+Idk if i will update the cheat but prop yes.
+The DNT button at the bottom sends you to my ko-fe page so if
+you enjoy the cheat you can donate haha. 
+Also please dont steal my code, you can use it ofc just give me credit :D
   
   
