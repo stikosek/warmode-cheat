@@ -15,6 +15,8 @@ Was started in a challange with JNNJ and terrain to make a cheat in 24 hours.
  - Moon gravity
 
 I really do reccomend you use No ammo usage + rapid fire its op as fuck
+NOTE: Rapid fire & No recoil are incopatable with eachother. You can only use one at the time.
+same with Flight and moon gravity. Only one at the time.
 
 # Instalation
 This is a BepInEx6 mod so instalation is relatively easy.
