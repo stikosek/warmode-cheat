@@ -36,11 +36,11 @@ namespace warmode_cheat.cheats
                 TargetVector = GetClosestEnemy(PlayerControll.Player, FirstPersonPlayer.Transform,FirstPersonPlayer.Team,true);
                 if(dist > 1700f)
                 {
-                    MODE = "FARBODY";
+                    MODE = "HEAD";
                 }
                 else if(dist > 700f)
                 {
-                    MODE = "BODY";
+                    MODE = "HEAD";
                 }
                 else {
                     MODE = "HEAD";
@@ -51,10 +51,10 @@ namespace warmode_cheat.cheats
                     
                     Transform transform = new Transform();
                     transform = FirstPersonPlayer.Transform;
-                    if (MODE == "BODY")
+                    if (MODE == "HEAD")
                     {
                         TargetVector.y = TargetVector.y - 1f;
-                    }else if(MODE == "FARBODY")
+                    }else if(MODE == "HEAD")
                     {
                         TargetVector.y = TargetVector.y - 0.5f;
                     }
